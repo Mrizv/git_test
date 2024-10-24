@@ -1,1 +1,1 @@
-"Testing the git repository the final time"
+"Testing the git repository the final time+last commit"
